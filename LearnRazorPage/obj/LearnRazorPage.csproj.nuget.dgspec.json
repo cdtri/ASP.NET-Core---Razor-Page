@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sources\\learn\\ASP.NET Core\\LearnRazorPage\\LearnRazorPage\\LearnRazorPage.csproj": {}
+    "D:\\Sources\\learn\\ASP.NET Core\\ASP.NET-Core---Razor-Page\\LearnRazorPage\\LearnRazorPage.csproj": {}
   },
   "projects": {
-    "D:\\Sources\\learn\\ASP.NET Core\\LearnRazorPage\\LearnRazorPage\\LearnRazorPage.csproj": {
+    "D:\\Sources\\learn\\ASP.NET Core\\ASP.NET-Core---Razor-Page\\LearnRazorPage\\LearnRazorPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sources\\learn\\ASP.NET Core\\LearnRazorPage\\LearnRazorPage\\LearnRazorPage.csproj",
+        "projectUniqueName": "D:\\Sources\\learn\\ASP.NET Core\\ASP.NET-Core---Razor-Page\\LearnRazorPage\\LearnRazorPage.csproj",
         "projectName": "LearnRazorPage",
-        "projectPath": "D:\\Sources\\learn\\ASP.NET Core\\LearnRazorPage\\LearnRazorPage\\LearnRazorPage.csproj",
-        "packagesPath": "C:\\Users\\VSIT\\.nuget\\packages\\",
-        "outputPath": "D:\\Sources\\learn\\ASP.NET Core\\LearnRazorPage\\LearnRazorPage\\obj\\",
+        "projectPath": "D:\\Sources\\learn\\ASP.NET Core\\ASP.NET-Core---Razor-Page\\LearnRazorPage\\LearnRazorPage.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Sources\\learn\\ASP.NET Core\\ASP.NET-Core---Razor-Page\\LearnRazorPage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VSIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

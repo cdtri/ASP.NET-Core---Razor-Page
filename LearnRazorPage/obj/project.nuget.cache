@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yAbAKI3UQN973g9B3ZuIyI4706W9ljVuMfghTa+cGMjcXdigzO1E+V8T2DsQk3suZDQJa51WT8xMz55D3zf87w==",
+  "dgSpecHash": "q+dkb5eiX2BzOttAxbazGMpdK1ZFycHdv/FDwfaAWFiDbVGAawN9QZJHileDcZ/5AeItsxYnE4+DkQ9GyvmvwQ==",
   "success": true,
-  "projectFilePath": "D:\\Sources\\learn\\ASP.NET Core\\LearnRazorPage\\LearnRazorPage\\LearnRazorPage.csproj",
+  "projectFilePath": "D:\\Sources\\learn\\ASP.NET Core\\ASP.NET-Core---Razor-Page\\LearnRazorPage\\LearnRazorPage.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
